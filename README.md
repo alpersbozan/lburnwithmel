@@ -23,6 +23,10 @@ With my advanced knowledge of application development, I can produce solutions f
 **🎯 Skills of Backend and Frontend:**
 
 With my beginner and intermediate knowledge in backend and intermediate and advanced knowledge in frontend, I can effectively manage both sides of your projects.
+
+**📹 Social Media Editor:**
+
+Also I'm a social media editor on Instagram, TikTok and Youtube passionate about anime, movie, TV series and game cinematics. I use my creativity to create original content and aim to deliver immersive experiences to audiences and gamers.
   
   
 
