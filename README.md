@@ -1,4 +1,4 @@
-## <div align="center">**I'm Alper, a frontend freelance developer and student of Uşak University**  👨‍💻 </div>  
+## <div align="center">**I'm Alper, a frontend freelance developer and student of Usak University**  👨‍💻 </div>  
   
 
 
