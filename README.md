@@ -1,4 +1,4 @@
-## <div align="center">**I'm Alper, a frontend freelance developer and student of Usak University**  👨‍💻 </div>  
+## <div align="center">**I'm Alper, a freelance developer and graduated from Usak University**  👨‍💻 </div>  
   
 
 
@@ -14,7 +14,7 @@ I can develop user-friendly, aesthetic and performance-oriented applications wit
 
 **🌐 Web Design and Development:**
 
-With my beginner to intermediate knowledge of website creation and design, I can design modern and user-friendly websites.
+With my intermediate knowledge of website creation and design, I can design modern and user-friendly websites.
 
 **💡 Application Development:**
 
@@ -22,18 +22,18 @@ With my advanced knowledge of application development, I can produce solutions f
 
 **🎯 Skills of Backend and Frontend:**
 
-With my beginner and intermediate knowledge in backend and intermediate and advanced knowledge in frontend, I can effectively manage both sides of your projects.
+With my intermediate knowledge in backend and intermediate and advanced knowledge in frontend, I can effectively manage both sides of your projects.
 
 **📹 Social Media Editor:**
 
-Also I'm a social media editor on Instagram, TikTok and Youtube passionate about anime, movie, TV series and game cinematics. I use my creativity to create original content and aim to deliver immersive experiences to audiences and gamers.
+Also I'm a social media editor on Instagram, TikTok and Youtube about anime, movie, TV series and game cinematics. I use my creativity to create original content and aim to deliver immersive experiences to audiences and gamers.
   
   
 
 
 
 ### 🤓 **Experiences**  
-🔭I aim to increase people's earthquake awareness with the mobile application called "Deprem Bilinç", which I developed using Flutter-Dart. The application aims to provide a user-friendly experience while informing users about earthquake risks with reliable data. Also, my past experience includes writing LUA scripts for game servers and now as a freelancer, I build custom websites for businesses to promote themselves effectively. With modern design and user-friendly interfaces, I help my clients strengthen their digital presence.  
+🔭I aimed to increase people's earthquake awareness with the mobile application called "Deprem Bilinç", which I developed using Flutter-Dart. The application aims to provide a user-friendly experience while informing users about earthquake risks with reliable data. Also, my past experience includes writing LUA scripts for game servers and now as a freelancer, I build custom websites for businesses to promote themselves effectively. With modern design and user-friendly interfaces, I help my clients strengthen their digital presence.  
   
 
 
